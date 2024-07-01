@@ -8,7 +8,6 @@ I am interested in gaining experience by being a software engineer intern for my
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [rinratirin@gmail.com](mailto:rinratirin@gmail.com)
-* 🧠  I'm learning Java and Spring Boot
 
 ### Skills
 
