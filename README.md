@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I am interested in gaining experience by being a software engineer. I am eager to collaborate with professionals, improve my technical abilities, and acquire the necessary training for my future career path.
+I am interested in gaining experience by being a software engineer. I am eager to collaborate with professionals and improve my technical abilities.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [rinratirin@gmail.com](mailto:rinratirin@gmail.com)
